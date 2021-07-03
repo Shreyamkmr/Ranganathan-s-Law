@@ -5,8 +5,8 @@ Windows application based on wpf, for calculation of possible combinations of mi
 # How To Run
 
 Download the whole Repository and Run "[WpfApp1.exe](https://github.com/Shreyamkmr/Ranganathan-s-Law/blob/main/WpfApp1.exe "WpfApp1.exe")" file (No need to install) (this is a portable version).
-Or you can just compile "[Ranganathan.cpp](https://github.com/Shreyamkmr/Ranganathan-s-Law/blob/main/Ranganathan.cpp "Ranganathan.cpp")" file (using any C++ compiler)
-
+Or you can just compile "[Ranganathan.cpp](https://github.com/Shreyamkmr/Ranganathan-s-Law/blob/main/Ranganathan.cpp "Ranganathan.cpp")" file (using any C++ compiler).
+<br /> Demo - https://www.youtube.com/watch?v=Rqag6nJMjwY
 
 ## Examples
 
